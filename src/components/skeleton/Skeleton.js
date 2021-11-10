@@ -1,3 +1,4 @@
+
 import './skeleton.scss';
 
 const Skeleton = () => {
